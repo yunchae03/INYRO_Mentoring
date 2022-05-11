@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91ac1a36-b7e5-4781-b26c-3b0bf634f893": {
+      "ProjectGuid": "91ac1a36-b7e5-4781-b26c-3b0bf634f893",
+      "DisplayName": "스위치",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
